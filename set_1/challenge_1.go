@@ -1,3 +1,8 @@
+// Set 1: Challenge 1
+//
+// Convert hex to base64
+//
+// https://cryptopals.com/sets/1/challenges/1
 package set_1
 
 var (
